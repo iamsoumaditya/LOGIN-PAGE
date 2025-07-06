@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center">LOGIN-PAGE</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code></code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/iamsoumaditya/LOGIN-PAGE?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -88,7 +88,7 @@
 
 Before getting started with LOGIN-PAGE.git, ensure your runtime environment meets the following requirements:
 
-- **Programming Language:** CSS
+- **Programming Language:** html,CSS,JS
 
 
 ###  Installation
