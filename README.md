@@ -88,7 +88,7 @@
 
 Before getting started with LOGIN-PAGE.git, ensure your runtime environment meets the following requirements:
 
-- **Programming Language:** html,CSS,JS
+- **Programming Language:** HTML,CSS,JS
 
 
 ###  Installation
@@ -109,18 +109,14 @@ Install LOGIN-PAGE.git using one of the following methods:
 
 3. Install the project dependencies:
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
+No dependencies just turn on live server-you're good to go.
 
 
 
 ###  Usage
-Run LOGIN-PAGE.git using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
+Run 
 ###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
+Run the test suite 
 ---
 ##  Project Roadmap
 
