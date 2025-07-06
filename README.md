@@ -66,15 +66,15 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/iamsoumaditya/LOGIN-PAGE/blob/main/login.css'>login.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code></code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/iamsoumaditya/LOGIN-PAGE.git/blob/master/login.js'>login.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/iamsoumaditya/LOGIN-PAGE/blob/master/login.js'>login.js</a></b></td>
+				<td><code></code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/iamsoumaditya/LOGIN-PAGE.git/blob/master/login.html'>login.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/iamsoumaditya/LOGIN-PAGE/blob/master/login.html'>login.html</a></b></td>
+				<td><code></code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -132,9 +132,9 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 ##  Contributing
 
-- **💬 [Join the Discussions](https://github.com/iamsoumaditya/LOGIN-PAGE.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/iamsoumaditya/LOGIN-PAGE.git/issues)**: Submit bugs found or log feature requests for the `LOGIN-PAGE.git` project.
-- **💡 [Submit Pull Requests](https://github.com/iamsoumaditya/LOGIN-PAGE.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/iamsoumaditya/LOGIN-PAGE/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/iamsoumaditya/LOGIN-PAGE/issues)**: Submit bugs found or log feature requests for the `LOGIN-PAGE.git` project.
+- **💡 [Submit Pull Requests](https://github.com/iamsoumaditya/LOGIN-PAGE/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -166,7 +166,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 <br>
 <p align="left">
    <a href="https://github.com{/iamsoumaditya/LOGIN-PAGE.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=iamsoumaditya/LOGIN-PAGE.git">
+      <img src="https://contrib.rocks/image?repo=iamsoumaditya/LOGIN-PAGE">
    </a>
 </p>
 </details>
