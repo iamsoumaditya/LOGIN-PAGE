@@ -1,12 +1,12 @@
-<p align="center"><h1 align="center">LOGIN-PAGE.GIT</h1></p>
+<p align="center"><h1 align="center">LOGIN-PAGE</h1></p>
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/iamsoumaditya/LOGIN-PAGE.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/iamsoumaditya/LOGIN-PAGE.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/iamsoumaditya/LOGIN-PAGE.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/iamsoumaditya/LOGIN-PAGE.git?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/iamsoumaditya/LOGIN-PAGE?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/iamsoumaditya/LOGIN-PAGE?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/iamsoumaditya/LOGIN-PAGE?style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/iamsoumaditya/LOGIN-PAGE?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -165,7 +165,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/iamsoumaditya/LOGIN-PAGE.git/}graphs/contributors">
+   <a href="https://github.com{/iamsoumaditya/LOGIN-PAGE/}graphs/contributors">
       <img src="https://contrib.rocks/image?repo=iamsoumaditya/LOGIN-PAGE">
    </a>
 </p>
