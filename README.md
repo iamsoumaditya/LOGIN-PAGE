@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
 <p align="center"><h1 align="center">LOGIN-PAGE.GIT</h1></p>
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
@@ -68,7 +65,7 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/iamsoumaditya/LOGIN-PAGE.git/blob/master/login.css'>login.css</a></b></td>
+				<td><b><a href='https://github.com/iamsoumaditya/LOGIN-PAGE/blob/main/login.css'>login.css</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
